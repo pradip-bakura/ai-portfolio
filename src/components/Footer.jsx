@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="text-center text-muted-foreground">
           <p className="flex items-center justify-center gap-2">
-            Built with the magic of React & Tailwind.
+            Built with React & Tailwind.
           </p>
           <p className="mt-2 text-sm">
             © 2025 Pradip Bakutra . All rights reserved.
