@@ -52,7 +52,7 @@ const Contact = () => {
   ];
 
   return (
-    <section id="contact" className="py-20 bg-background relative">
+    <section id="contact" className="pt-20 bg-background relative">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <Badge variant="outline" className="mb-4">
@@ -142,7 +142,7 @@ const Contact = () => {
                     <Download className="w-4 h-4 mr-2 group-hover:animate-bounce" />
                     <a
                       href={
-                        "https://drive.google.com/file/d/1eiT4iQlPbTVRy72QFqAa-gYeBxIGia0W/view?usp=drive_link"
+                        "https://drive.google.com/file/d/1AcL46-1lAbKIj8M3dV4-6Ai0qx317Zo1/view?usp=sharing"
                       }
                       target="_blank"
                       rel="noopener noreferrer"
@@ -154,20 +154,6 @@ const Contact = () => {
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Footer */}
-      <div className="mt-20 pt-8 border-t border-border/50">
-        <div className="container mx-auto px-6">
-          <div className="text-center text-muted-foreground">
-            {/* <p className="flex items-center justify-center gap-2">
-              Built with React.js & Tailwind CSS
-            </p> */}
-            <p className="mt-2 text-sm">
-              © 2025 Pradip Bakutra. All rights reserved.
-            </p>
           </div>
         </div>
       </div>
