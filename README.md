@@ -1,6 +1,6 @@
 # Portfolio
 
-A portfolio website of Pradip Bakutra, showcasing projects, skills, and professional experience as a Frontend Developer. Built with React, TypeScript, Vite, Tailwind CSS, and advanced 3D visualizations using Three.js.
+A portfolio website of Pradip Bakutra, showcasing projects, skills, and professional experience as a Frontend Developer. Built with React, Javascript, Vite, Tailwind CSS, and advanced 3D visualizations using Three.js.
 
 ## Table of Contents
 
@@ -29,13 +29,13 @@ A portfolio website of Pradip Bakutra, showcasing projects, skills, and professi
 
 ## Tech Stack
 
-- **Frontend:** React 18, TypeScript, Vite
+- **Frontend:** React 18, Javascript, Vite
 - **Styling:** Tailwind CSS, PostCSS, CSS Modules
 - **3D/Visualization:** React Three Fiber, Drei, Three.js
 - **State Management:** React Query, React Hook Form, Redux (in projects)
 - **UI Components:** Radix UI, shadcn/ui, Lucide Icons
 - **Routing:** React Router DOM
-- **Linting:** ESLint, TypeScript ESLint
+- **Linting:** ESLint, Javascript ESLint
 - **Other:** Zod, date-fns, recharts, embla-carousel, and more
 
 ## Getting Started
@@ -99,7 +99,7 @@ ai-portfolio/
 ├── vite.config.ts         # Vite configuration
 ├── tailwind.config.ts     # Tailwind CSS config
 ├── postcss.config.js      # PostCSS config
-├── tsconfig*.json         # TypeScript configs
+├── tsconfig*.json         # Javascript configs
 └── README.md              # Project documentation
 ```
 
